@@ -62,6 +62,6 @@ public class LoginBasicTest {
             e.printStackTrace();
         }
 
-        System.out.println("4. Teste finalizado com sucesso ✅");
+        System.out.println("4. Teste finalizado com sucesso ");
     }
 }
